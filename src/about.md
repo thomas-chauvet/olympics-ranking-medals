@@ -64,4 +64,4 @@ Notes:
 ### About
 
 - Author: [Thomas Chauvet](https://www.linkedin.com/in/thomaschauvet/)
-- Source code: [GitHub]().
+- Source code: [GitHub](https://github.com/thomas-chauvet/olympics-ranking-medals).
