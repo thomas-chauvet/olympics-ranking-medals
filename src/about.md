@@ -21,8 +21,8 @@ The new rank is computed by giving a score to each country based on the number o
 The score is computed as follows:
 
 ```txt
-score = (Number of Gold medals) * weight_gold + 
-    (Number of Silver medals) * weight_silver + 
+score = (Number of Gold medals) * weight_gold +
+    (Number of Silver medals) * weight_silver +
     (Number of Bronze medals) * weight_bronze
 ```
 
